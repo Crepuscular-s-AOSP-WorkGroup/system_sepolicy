@@ -90,7 +90,7 @@
     ota_prop
     prereboot_data_file
     proc_locks
-    art_apex_dir
+    proc_cpu_alignment
     rebootescrow_hal_prop
     securityfs
     service_manager_service
